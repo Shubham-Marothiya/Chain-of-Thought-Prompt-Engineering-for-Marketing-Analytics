@@ -54,3 +54,21 @@ Where are the major trend spikes?
 What marketing insights can be derived?
 
 How can brands leverage AI trend momentum?
+
+🛠 Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Seaborn
+
+Matplotlib
+
+Jupyter Notebook
+
+Prompt Engineering (Chain-of-Thought)
+
+LLM-assisted analysis
